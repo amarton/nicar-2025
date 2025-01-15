@@ -1,0 +1,114 @@
+"0","```r
+dw_retrieve_chart_metadata(another_chart)
+```"
+"1","<Datawrapper https://api.datawrapper.de/v3/charts/mB0ZM>
+
+Chart-ID: mB0ZM
+"
+"1","List of 24
+ $ metadata      :List of 7
+  ..$ data     :List of 5
+  .. ..$ changes          : list()
+  .. ..$ transpose        : logi FALSE
+  .. ..$ vertical-header  : logi TRUE
+  .. ..$ horizontal-header: logi TRUE
+  .. ..$ upload-method    : chr \"copy\"
+  ..$ describe :List of 10
+  .. ..$ source-name     : chr \"Baltimore City Police Department\"
+  .. ..$ source-url      : chr \"\"
+  .. ..$ intro           : chr \"Year over year arrests are down despite a slight uptick in 2023\"
+  .. ..$ byline          : chr \"\"
+  .. ..$ aria-description: chr \"\"
+  .. ..$ number-format   : chr \"-\"
+  .. ..$ number-divisor  : int 0
+  .. ..$ number-append   : chr \"\"
+  .. ..$ number-prepend  : chr \"\"
+  .. ..$ hide-title      : logi FALSE
+  ..$ visualize:List of 33
+  .. ..$ dark-mode-invert      : logi TRUE
+  .. ..$ highlighted-series    : list()
+  .. ..$ highlighted-values    : list()
+  .. ..$ sharing               :List of 1
+  .. .. ..$ enabled: logi FALSE
+  .. ..$ rules                 : logi FALSE
+  .. ..$ thick                 : logi FALSE
+  .. ..$ overlays              : list()
+  .. ..$ sort-bars             : logi FALSE
+  .. ..$ background            : logi FALSE
+  .. ..$ base-color            : int 0
+  .. ..$ force-grid            : logi FALSE
+  .. ..$ swap-labels           : logi FALSE
+  .. ..$ block-labels          : logi FALSE
+  .. ..$ custom-range          :List of 2
+  .. .. ..$ : chr \"\"
+  .. .. ..$ : chr \"\"
+  .. ..$ range-extent          : chr \"nice\"
+  .. ..$ thick-arrows          : logi FALSE
+  .. ..$ replace-flags         :List of 2
+  .. .. ..$ style  : chr \"4x3\"
+  .. .. ..$ enabled: logi FALSE
+  .. ..$ reverse-order         : logi FALSE
+  .. ..$ tick-position         : chr \"top\"
+  .. ..$ color-category        :List of 4
+  .. .. ..$ map           : Named list()
+  .. .. ..$ palette       : list()
+  .. .. ..$ categoryOrder : list()
+  .. .. ..$ categoryLabels: Named list()
+  .. ..$ show-color-key        : logi FALSE
+  .. ..$ color-by-column       : logi FALSE
+  .. ..$ group-by-column       : logi FALSE
+  .. ..$ label-alignment       : chr \"left\"
+  .. ..$ custom-grid-lines     : chr \"\"
+  .. ..$ date-label-format     : chr \"YYYY\"
+  .. ..$ show-group-labels     : logi TRUE
+  .. ..$ show-value-labels     : logi TRUE
+  .. ..$ value-label-format    : chr \"0,0.[00]\"
+  .. ..$ compact-group-labels  : logi FALSE
+  .. ..$ show-category-labels  : logi TRUE
+  .. ..$ value-label-alignment : chr \"left\"
+  .. ..$ value-label-visibility: chr \"always\"
+  ..$ axes     : Named list()
+  ..$ publish  :List of 5
+  .. ..$ embed-width : int 600
+  .. ..$ embed-height: int 429
+  .. ..$ blocks      :List of 6
+  .. .. ..$ logo          :List of 1
+  .. .. .. ..$ enabled: logi FALSE
+  .. .. ..$ embed         : logi FALSE
+  .. .. ..$ download-pdf  : logi FALSE
+  .. .. ..$ download-svg  : logi FALSE
+  .. .. ..$ get-the-data  : logi TRUE
+  .. .. ..$ download-image: logi FALSE
+  .. ..$ export-pdf  : Named list()
+  .. ..$ chart-height: int 332
+  ..$ annotate :List of 1
+  .. ..$ notes: chr \"\"
+  ..$ custom   : Named list()
+ $ title         : chr \"Baltimore arrests show decline over ten year period\"
+ $ readonlyKeys  : list()
+ $ thumbnails    :List of 2
+  ..$ full : chr \"//img.datawrapper.de/mB0ZM/c0d1f26f784011bfa2f6e8535f97b5f9/full.png\"
+  ..$ plain: chr \"//img.datawrapper.de/mB0ZM/c0d1f26f784011bfa2f6e8535f97b5f9/plain.png\"
+ $ publicId      : chr \"mB0ZM\"
+ $ language      : chr \"en-US\"
+ $ theme         : chr \"datawrapper\"
+ $ authorId      : int 114512
+ $ createdAt     : chr \"2024-06-20T17:29:02.000Z\"
+ $ externalData  : NULL
+ $ forkable      : logi FALSE
+ $ forkedFrom    : NULL
+ $ id            : chr \"mB0ZM\"
+ $ isFork        : logi FALSE
+ $ lastEditStep  : int 3
+ $ lastModifiedAt: chr \"2024-06-20T17:35:35.000Z\"
+ $ organizationId: chr \"universityofmaryland\"
+ $ publicUrl     : NULL
+ $ publicVersion : int 0
+ $ publishedAt   : NULL
+ $ type          : chr \"d3-bars\"
+ $ folderId      : NULL
+ $ author        :List of 2
+  ..$ name : NULL
+  ..$ email: chr \"amarton@umd.edu\"
+ $ url           : chr \"/v3/charts/mB0ZM\"
+"

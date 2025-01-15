@@ -1,0 +1,4 @@
+"0","```r
+crime_data <- read.csv(\"arrests.csv\")
+head(crime_data)
+```"

@@ -1,0 +1,12 @@
+"0","```r
+dw_edit_chart(another_chart, 
+              byline = \"Adam Marton\",
+              visualize = list(
+                \"base-color\" = \"#cdcdcd\",
+                \"thick\" = \"true\",
+                \"value-label-alignment\" = \"right\"
+                )
+              )
+```"
+"1","Chart mB0ZM succesfully updated.
+"

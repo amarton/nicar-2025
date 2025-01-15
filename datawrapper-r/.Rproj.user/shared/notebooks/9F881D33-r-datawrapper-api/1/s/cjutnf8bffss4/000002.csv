@@ -1,0 +1,8 @@
+"0","```r
+another_chart <- dw_create_chart(
+  type=\"d3-bars\",
+  title=\"baltimore-arrests-test\"
+)
+```"
+"1","New chart's id: mB0ZM
+"

@@ -1,0 +1,16 @@
+"0","```r
+
+#Duplicate crime summary dataframe
+crime_summary_update = data.frame(crime_summary)
+
+#Create a new column and add 1000 to n
+crime_summary_update <- crime_summary_update %>% 
+  mutate(new = n + 1000)
+
+#Delete the n column
+crime_summary_update = select(crime_summary_update, -n)
+
+#Rename new to n
+crime_summary_update=rename(crime_summary_update,n=new) 
+
+```"

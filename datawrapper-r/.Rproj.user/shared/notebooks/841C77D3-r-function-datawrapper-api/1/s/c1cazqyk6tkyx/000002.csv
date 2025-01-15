@@ -1,0 +1,155 @@
+"0","```r
+for(district in unique(crime_data$District)) {
+  my_function(district)
+}
+```"
+"1","New chart's id: UqrBg
+
+Data in UqrBg successfully updated.
+
+Chart UqrBg succesfully updated.
+
+Chart UqrBg published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Northwest district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-UqrBg\" src=\"https://datawrapper.dwcdn.net/UqrBg/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/UqrBg/1/
+"
+"1","New chart's id: 44J6M
+
+Data in 44J6M successfully updated.
+
+Chart 44J6M succesfully updated.
+
+Chart 44J6M published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's  district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-44J6M\" src=\"https://datawrapper.dwcdn.net/44J6M/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/44J6M/1/
+"
+"1","New chart's id: uzLwD
+
+Data in uzLwD successfully updated.
+
+Chart uzLwD succesfully updated.
+
+Chart uzLwD published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Central district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-uzLwD\" src=\"https://datawrapper.dwcdn.net/uzLwD/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/uzLwD/1/
+"
+"1","New chart's id: tDt9w
+
+Data in tDt9w successfully updated.
+
+Chart tDt9w succesfully updated.
+
+Chart tDt9w published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Western district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-tDt9w\" src=\"https://datawrapper.dwcdn.net/tDt9w/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/tDt9w/1/
+"
+"1","New chart's id: cQYGt
+
+Data in cQYGt successfully updated.
+
+Chart cQYGt succesfully updated.
+
+Chart cQYGt published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Eastern district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-cQYGt\" src=\"https://datawrapper.dwcdn.net/cQYGt/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/cQYGt/1/
+"
+"1","New chart's id: EY6PI
+
+Data in EY6PI successfully updated.
+
+Chart EY6PI succesfully updated.
+
+Chart EY6PI published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Northeast district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-EY6PI\" src=\"https://datawrapper.dwcdn.net/EY6PI/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/EY6PI/1/
+"
+"1","New chart's id: eZA4r
+
+Data in eZA4r successfully updated.
+
+Chart eZA4r succesfully updated.
+
+Chart eZA4r published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Southern district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-eZA4r\" src=\"https://datawrapper.dwcdn.net/eZA4r/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/eZA4r/1/
+"
+"1","New chart's id: B3i1n
+
+Data in B3i1n successfully updated.
+
+Chart B3i1n succesfully updated.
+
+Chart B3i1n published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Southeast district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-B3i1n\" src=\"https://datawrapper.dwcdn.net/B3i1n/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/B3i1n/1/
+"
+"1","New chart's id: IJJN7
+
+Data in IJJN7 successfully updated.
+
+Chart IJJN7 succesfully updated.
+
+Chart IJJN7 published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Northern district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-IJJN7\" src=\"https://datawrapper.dwcdn.net/IJJN7/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/IJJN7/1/
+"
+"1","New chart's id: pbyXN
+
+Data in pbyXN successfully updated.
+
+Chart pbyXN succesfully updated.
+
+Chart pbyXN published!
+"
+"1","### Responsive iFrame-code: ###
+<iframe title=\"Arrests in Baltimore's Southwest district\" aria-label=\"Bar Chart\" id=\"datawrapper-chart-pbyXN\" src=\"https://datawrapper.dwcdn.net/pbyXN/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[\"datawrapper-height\"][t]+\"px\";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/pbyXN/1/
+"

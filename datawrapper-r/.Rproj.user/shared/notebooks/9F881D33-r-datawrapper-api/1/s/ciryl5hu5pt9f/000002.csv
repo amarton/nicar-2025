@@ -1,0 +1,6 @@
+"0","```r
+dw_edit_chart(dup_chart, title = \"Updated chart\", 
+intro = \"This chart has new data\", source_name = \"Baltimore City Police Department\")
+```"
+"1","Chart kElmH succesfully updated.
+"
