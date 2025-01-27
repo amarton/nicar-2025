@@ -2,7 +2,9 @@
 title: 'From Code to Charts: Create DataWrapper Graphics Straight from R'
 author: "Adam Marton"
 subtitle: NICAR 2025
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 ******
